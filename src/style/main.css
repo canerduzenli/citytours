@@ -1,0 +1,11 @@
+h2 {
+  text-align: center;
+  margin-top: 50px;
+  color: var(--app-orange);
+
+}
+
+p {
+  font-size: 18px;
+  color: rgb(125, 125, 186);
+}

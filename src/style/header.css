@@ -1,0 +1,90 @@
+header .container,
+header .title {
+  display: flex;
+  justify-content: space-between;
+}
+
+header {
+  background-color: hsl(0, 0%, 90%);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5)
+}
+
+.title h1,
+.title i {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: var(--app-orange);
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  line-height: 50px;
+}
+
+.title h1 {
+  margin-left: 5px;
+}
+
+nav ul {
+  margin: auto;
+  list-style: none;
+  font-size: 0;
+}
+
+nav ul li {
+  display: inline;
+  line-height: 56px;
+}
+
+nav ul li a {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--app-orange);
+  text-decoration: none;
+  letter-spacing: 0.2px;
+  transition: color 0.25s ease-in-out;
+}
+
+nav ul li a:hover {
+  color: #fff;
+}
+
+header div nav ul li+li {
+  margin-left: 15px;
+}
+
+.icon.one {
+  display: none;
+  color: var(--app-orange);
+  line-height: 56px;
+  font-size: 20px
+}
+
+.icon:hover {
+  color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+
+  .title {
+    font-size: 2rem;
+    margin-inline: auto;
+  }
+
+
+  .H-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-inline: auto;
+  }
+
+  .H-nav ul {
+    padding: 10px 0;
+    margin-inline: auto;
+  }
+
+
+
+
+
+
+}

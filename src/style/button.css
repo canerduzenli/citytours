@@ -1,0 +1,28 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-inline: 20px;
+
+}
+
+.buttons :first-child {
+  margin-right: 10px;
+}
+
+button {
+  color: rgb(125, 125, 186);
+  ;
+  height: 50px;
+  width: 300px;
+  cursor: pointer;
+  border-radius: 10px;
+  margin-inline: auto;
+  margin-top: 50px;
+
+
+}
+
+.bookingButton {
+  background-color: rgb(125, 125, 186);
+  color: #fff;
+}

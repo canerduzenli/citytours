@@ -1,0 +1,19 @@
+/* Footer.css */
+
+footer {
+  font-family: "Times New Roman", Times, serif;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  background-color: hsl(0, 0%, 90%);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer div {
+  margin: 10px 0;
+}
+
+.footer-C {
+  font-weight: 500;
+}
