@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/citytours/static/css/main.d22203e2.css",
+    "main.js": "/citytours/static/js/main.84b5dfea.js",
+    "static/js/787.ce3a3f56.chunk.js": "/citytours/static/js/787.ce3a3f56.chunk.js",
+    "static/media/simpleview.jpg": "/citytours/static/media/simpleview.01bdadfa19da2cd743a9.jpg",
+    "static/media/GolfDome.jpg": "/citytours/static/media/GolfDome.47c338cd61c3c74ab8d9.jpg",
+    "static/media/polarbear.jpg": "/citytours/static/media/polarbear.38a840de29c1ebbab4c5.jpg",
+    "static/media/city.jpg": "/citytours/static/media/city.a049afd503dcce3e048f.jpg",
+    "index.html": "/citytours/index.html",
+    "main.d22203e2.css.map": "/citytours/static/css/main.d22203e2.css.map",
+    "main.84b5dfea.js.map": "/citytours/static/js/main.84b5dfea.js.map",
+    "787.ce3a3f56.chunk.js.map": "/citytours/static/js/787.ce3a3f56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d22203e2.css",
+    "static/js/main.84b5dfea.js"
+  ]
+}
